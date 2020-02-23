@@ -1,0 +1,1 @@
+{"version":3,"sources":["homeBanner.css"],"names":[],"mappings":"AAAA,aACI,iBAAkB,CAClB,eAAgB,CAChB,eACJ","file":"main.c6f2c214.chunk.css","sourcesContent":[".home-banner{\r\n    text-align: center;\r\n    font-size: 2.5em;\r\n    font-weight: bold;\r\n}"]}
