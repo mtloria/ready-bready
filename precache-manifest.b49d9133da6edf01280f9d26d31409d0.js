@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "618ba60499c48eaa15082c5705be2a29",
+    "revision": "435fc6d12ee809d39251451b3ebaaac8",
     "url": "/ready-bready/index.html"
   },
   {
-    "revision": "0e8aceb88313f4478acf",
+    "revision": "830f0b9767adefc5a4f7",
     "url": "/ready-bready/static/css/main.d1b05096.chunk.css"
   },
   {
-    "revision": "7b6ed5cf808a18c71554",
-    "url": "/ready-bready/static/js/2.76f14b84.chunk.js"
+    "revision": "c38f1320d1a867707342",
+    "url": "/ready-bready/static/js/2.b81f1188.chunk.js"
   },
   {
-    "revision": "99bd0487192ec9e7d9ee8fbbd91ee444",
-    "url": "/ready-bready/static/js/2.76f14b84.chunk.js.LICENSE.txt"
+    "revision": "928d7b5eb39d16fe9a880722c974b51e",
+    "url": "/ready-bready/static/js/2.b81f1188.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0e8aceb88313f4478acf",
-    "url": "/ready-bready/static/js/main.7414852c.chunk.js"
+    "revision": "830f0b9767adefc5a4f7",
+    "url": "/ready-bready/static/js/main.bc416c34.chunk.js"
   },
   {
     "revision": "3a21ceb08aaac53bdf1b",
