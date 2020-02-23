@@ -1,0 +1,22 @@
+{
+    "breads": [
+      {
+        "id": "1",
+        "name": "Saturday Morning Bread",
+        "time": "12 hours?",
+        "ingredients": [
+          {
+            "flour": "1000g",
+            "water": "400g",
+            "yeast": "7g",
+            "salt": "21g"
+          }
+        ],
+        "proofTime": "1 hour"
+      },
+      {
+        "id": "2",
+        "name": "Biga"
+      }
+    ]
+  }
