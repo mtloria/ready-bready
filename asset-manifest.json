@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ready-bready/static/css/main.d1b05096.chunk.css",
+    "main.js": "/ready-bready/static/js/main.7414852c.chunk.js",
+    "main.js.map": "/ready-bready/static/js/main.7414852c.chunk.js.map",
+    "runtime-main.js": "/ready-bready/static/js/runtime-main.8edcb53a.js",
+    "runtime-main.js.map": "/ready-bready/static/js/runtime-main.8edcb53a.js.map",
+    "static/js/2.76f14b84.chunk.js": "/ready-bready/static/js/2.76f14b84.chunk.js",
+    "static/js/2.76f14b84.chunk.js.map": "/ready-bready/static/js/2.76f14b84.chunk.js.map",
+    "index.html": "/ready-bready/index.html",
+    "precache-manifest.211c46dcd19574f4186e80f3aba802e7.js": "/ready-bready/precache-manifest.211c46dcd19574f4186e80f3aba802e7.js",
+    "service-worker.js": "/ready-bready/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/ready-bready/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.76f14b84.chunk.js.LICENSE.txt": "/ready-bready/static/js/2.76f14b84.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ready-bready/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8edcb53a.js",
+    "static/js/2.76f14b84.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.7414852c.chunk.js"
+  ]
+}
