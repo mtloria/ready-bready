@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import HomeBanner from '../components/homeBanner';
+import BreadList from '../components/breadList';
 
 class Page extends Component {
   render() {
@@ -7,6 +8,7 @@ class Page extends Component {
     return (
       <div className="page">
         <HomeBanner />
+        <BreadList />
       </div>
     )
   }
